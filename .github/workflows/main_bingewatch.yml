@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Bingewatch'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0EB6A23FC72046F89FF393CE334B2E22 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DBA2DC2DEE6E40E4A37FD8F53655FC08 }}
           package: .
